@@ -30,6 +30,13 @@
 		<version>3.7.10</version>
 	</dependency>
 	
+	<!-- GoogleMaps Geocoding API -->
+	<dependency>
+    	<groupId>com.google.maps</groupId>
+    	<artifactId>google-maps-services</artifactId>
+    	<version>0.1.4</version>
+	</dependency>
+	
   </dependencies>
   
   
