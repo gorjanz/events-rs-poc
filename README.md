@@ -1,4 +1,4 @@
-<img href="http://github.com/gorjanz/smartcal/blob/master/SmartCal/WebContent/resources/images/event128px.png" />
+<img src="https://github.com/gorjanz/smartcal/blob/master/SmartCal/WebContent/resources/images/event128px.png" />
 events-rs-poc
 =============
 
